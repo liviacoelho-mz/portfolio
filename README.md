@@ -22,6 +22,6 @@ Sou estudante de Sistemas de informação na Universidade Federal do Ceará, UFC
 
 ## Contato
 
-Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em liviacoelho@alu.ufc.br.
+Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em liviacoelho@alu.ufc.br
 
 Obrigado por conferir meu projeto! 😊
