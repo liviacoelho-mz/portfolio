@@ -1,0 +1,121 @@
+/* Estilos gerais */
+body {
+    font-family: 'Segoe UI';
+    margin: 0;
+    margin-right: 200px;
+    padding: 20px;
+    background-color: #FFF8F2;
+}
+header {
+    background-color: #D1958F; 
+    color: #fff;
+    text-align: left;
+    padding: 10px;
+}
+.sidebar {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: #D1958F; 
+    padding-top: 20px;
+    display: flex; /* Ativa o flexbox */
+    flex-direction: column; /* Organiza os itens em coluna */
+    align-items: center; /* Centraliza horizontalmente */
+}
+.sidebar-header img {
+    width: 180px; 
+    border-radius: 25%; /* Bordas arredondadas para a imagem */
+    border: 2px solid white; /* Adiciona uma borda branca à imagem */
+}
+.container {
+    width: 300px; /* Largura da imagem */
+    height: auto; /* Altura da imagem ajustada automaticamente */
+    overflow: hidden; /* Oculta parte da imagem que ultrapassar o contêiner */
+}
+
+.zoomable {
+    width: 100%; /* Tamanho original da imagem */
+    transition: transform 0.2s ease; /* Adiciona uma transição suave */
+}
+
+.zoomable:hover {
+    transform: scale(1.2); /* Aumenta o tamanho da imagem em 20% ao passar o mouse por cima */
+}
+footer {
+    background-color: #D1958F; 
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+    margin-right: 200px;
+}
+
+/* Estilos específicos para diferentes seções */
+.intro, .resumo, .portfolio, .contato {
+    padding: 20px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Sombra */
+}
+
+.projeto {
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/* Estilos de texto */
+h1, h2, h3 {
+    font-family: 'BlowBrush';
+}
+
+h2 {
+    color: #A2834B; 
+}
+
+a {
+    color: #A2834B; 
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.contato {
+    padding-bottom: 50px; 
+}
+.meu-link { 
+    color: #FFF8F2; 
+}
+.icons-container {
+    display:block;
+    text-align: center;
+}
+  .icons-container i {
+    margin-right: 10px;
+  }
+  .icons-contact {
+    text-align: left;
+  }
+  .icons-contact i {
+    margin-right: 10px;
+  }
+  .icon-text {
+    display: block;
+  }
+  .icon-color{
+    color: black;
+  }
+/* Media Queries para responsividade */
+@media only screen and (min-width: 600px) {
+    /* Adicione estilos específicos para telas maiores */
+}
+
+@media only screen and (max-width: 600px) {
+    /* Adicione estilos específicos para telas menores */
+}
