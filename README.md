@@ -14,14 +14,14 @@ O objetivo deste projeto foi criar um portfólio online para apresentar meu trab
 
 ## Como Contribuir
 
-Se você encontrar algum problema, bug ou tiver sugestões para melhorar este projeto, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*. Todas as contribuições são bem-vindas!
+Se você encontrar algum problema, bug ou tiver sugestões para melhorar este projeto, sinta-se à vontade. Todas as contribuições são bem-vindas!
 
 ## Sobre Mim
 
-Sou estudante de [adicionar sua área de estudo aqui] na [adicionar nome da instituição de ensino aqui] e estou apaixonado por desenvolvimento web. Este projeto é uma demonstração do meu aprendizado e progresso nesta área.
+Sou estudante de Sistemas de informação na Universidade Federal do Ceará, UFC-campus Crateús e estou apaixonado por desenvolvimento web. Este projeto é uma demonstração do meu aprendizado e progresso nesta área.
 
 ## Contato
 
-Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em [seu-email@aqui.com].
+Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em [liviacoelho@alu.ufc.br].
 
 Obrigado por conferir meu projeto! 😊
